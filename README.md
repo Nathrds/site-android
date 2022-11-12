@@ -1,6 +1,5 @@
-<p align="center">
 ![image](https://user-images.githubusercontent.com/106173624/201481060-6859dbe4-2c91-4da3-aa2c-fbfcb95dc58e.png)
-</p>
+
 <hr>
 <br/>
 
