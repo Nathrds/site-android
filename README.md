@@ -17,3 +17,8 @@ Projeto realizado pelo curso de html e css do [Curso em Vídeo](https://www.curs
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/106173624/201481144-d4df6e82-2e64-405e-879c-92b0848ed5a1.png)
+
+<br/>
+
+## QR Code 
+![frame](https://user-images.githubusercontent.com/106173624/201481613-dcb25be4-c42e-4bfc-a191-19e6b716b6c7.png)
