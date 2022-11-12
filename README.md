@@ -20,5 +20,5 @@ Projeto responsivo realizado pelo curso de html e css do [Curso em Vídeo](https
 
 <br/>
 
-## QR Code 
+## QR Code - Projeto Android
 ![frame](https://user-images.githubusercontent.com/106173624/201481613-dcb25be4-c42e-4bfc-a191-19e6b716b6c7.png)
